@@ -118,16 +118,22 @@ sys	    0m5.763s
 ```
 
 - Forking up to logn/1.25 levels
+```
 real	0m31.286s
 user	0m59.070s
 sys 	0m19.807s
+```
 
 - Forking up to logn/1.3 levels
+```
 real	0m31.227s
 user	0m58.946s
 sys 	0m19.725s
+```
 
 - Forking up to logn/1.4 levels
+```
 real	0m29.861s
 user	0m58.472s
 sys 	0m11.723s
+```
